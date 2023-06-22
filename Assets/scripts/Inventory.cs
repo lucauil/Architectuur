@@ -34,7 +34,7 @@ public class Inventory : MonoBehaviour
         {
             items.Add(itemToAdd);
         }
-        Debug.Log(itemToAdd.count + " " + itemToAdd.name + "Added to inventory.");
+        Debug.Log(itemToAdd.count + " " + itemToAdd.name + "Added to the inventory.");
     }
 
     public void RemoveItem(Item itemToRemove)
