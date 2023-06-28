@@ -5,17 +5,27 @@ using UnityEngine;
 public class voltooid : MonoBehaviour
 {
     public GameObject Voltooid;
+    public GameObject finishline;
     // Start is called before the first frame update
     void Start()
     {
         Cursor.visible = false; 
     }
-    void update(){
+    void update()
+    {
+        if (Inventory.instance.item.count() == 3) 
+        {
+           finishline.SetActive(true);
+        }
 
+        else
+        {
+            finishline.SetActive(false);
+        }
     }
     
     
-       private void OnCollisionEnter2D(Collision2D other)
+       private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
