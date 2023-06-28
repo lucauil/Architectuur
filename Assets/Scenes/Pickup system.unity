@@ -124,6 +124,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &108751668 stripped
 GameObject:
@@ -247,6 +248,8 @@ Transform:
 >>>>>>> Stashed changes
 =======
 >>>>>>> parent of 0919af0 (andere inventory systeem gemaakt)
+=======
+>>>>>>> parent of 0919af0 (andere inventory systeem gemaakt)
 --- !u!1 &174262618 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8443120443535370622, guid: 19589ced62688b94babc622c28907caf,
@@ -260,6 +263,7 @@ Transform:
   m_PrefabInstance: {fileID: 763421604}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &174262620
+<<<<<<< HEAD
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -285,6 +289,8 @@ CharacterController:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 --- !u!114 &174262622
+=======
+>>>>>>> parent of 0919af0 (andere inventory systeem gemaakt)
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -293,6 +299,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 174262618}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 2073073e564f6674eb9cc7261b070f8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -300,6 +307,18 @@ MonoBehaviour:
   finishline: {fileID: 89306844}
 >>>>>>> Stashed changes
 =======
+>>>>>>> parent of 0919af0 (andere inventory systeem gemaakt)
+=======
+  m_Script: {fileID: 11500000, guid: c7225c79f72dd7c42b0ee025b01aaff5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items: []
+--- !u!143 &174262621 stripped
+CharacterController:
+  m_CorrespondingSourceObject: {fileID: 8443120443535370497, guid: 19589ced62688b94babc622c28907caf,
+    type: 3}
+  m_PrefabInstance: {fileID: 763421604}
+  m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of 0919af0 (andere inventory systeem gemaakt)
 --- !u!1 &300823964
 GameObject:
@@ -1538,6 +1557,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &1140931684
 GameObject:
@@ -1581,6 +1601,8 @@ GameObject:
   m_PrefabInstance: {fileID: 527663430}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0919af0 (andere inventory systeem gemaakt)
 =======
 >>>>>>> parent of 0919af0 (andere inventory systeem gemaakt)
 --- !u!1 &1624288352
