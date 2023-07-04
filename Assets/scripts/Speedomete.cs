@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Speedometer : MonoBehaviour
+public class Speedomete : MonoBehaviour
 {
     public CharacterController target;
 

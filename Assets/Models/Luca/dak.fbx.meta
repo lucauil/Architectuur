@@ -3,7 +3,17 @@ guid: ab783eb5342bdc3409ee60d52719b402
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: ff2e219273d2e2b419fc1c5a2bbf7da8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: da-kdak
+    second: {fileID: 2800000, guid: 700b8215522290d469a6fe2a872f9d4a, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

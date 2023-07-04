@@ -19,7 +19,7 @@ public class hoofdmenu : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
-    public void VreditsGame()
+    public void CreditsGame()
     {
         SceneManager.LoadScene("Credits");
     }
@@ -32,5 +32,10 @@ public class hoofdmenu : MonoBehaviour
     public void Terug()
     {
         Optiemenu.SetActive(false);
+    }
+
+    public void Hoofdmenu()
+    {
+        SceneManager.LoadScene("Menu");
     }
 }
