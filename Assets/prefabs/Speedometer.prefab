@@ -281,12 +281,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 4241866643649457907}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4373977875f0a424c95eaf6b2f0ed62f, type: 3}
+  m_Script: {fileID: 11500000, guid: 73eb2a6409a2bfc429080d305e513243, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   maxSpeed: 0
-  minSpeedArrowAngle: -180
-  maxSpeedArrowAngle: 260
+  minSpeedArrowAngle: 0
+  maxSpeedArrowAngle: 0
   speedLabel: {fileID: 4241866643358410172}
   arrow: {fileID: 4241866642437714449}
